@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://about.watever177.com/sitemap.xml
